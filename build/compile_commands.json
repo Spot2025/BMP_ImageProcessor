@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/image_processor.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image_processor.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image_processor.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/file_worker.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/file_worker.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/file_worker.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/image.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/image_handler.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image_handler.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/image_handler.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/matrix_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/matrix_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/matrix_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/sharpening_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/sharpening_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/sharpening_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/negative_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/negative_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/negative_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/grayscale_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/grayscale_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/grayscale_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/crop_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/crop_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/crop_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/edge_detection_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/edge_detection_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/edge_detection_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/gaussian_blur_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/gaussian_blur_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/gaussian_blur_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/interesting_filter.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/interesting_filter.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/interesting_filter.cpp"
+},
+{
+  "directory": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/build",
+  "command": "/usr/bin/clang++-11    -g   -o CMakeFiles/image_processor.dir/perlin_noise.cpp.o -c /home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/perlin_noise.cpp",
+  "file": "/home/ivan/pmi-233-1-Ivan-Shilyaev-IvanShilyaev/tasks/image_processor/perlin_noise.cpp"
+}
+]
